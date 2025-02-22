@@ -1,0 +1,2 @@
+print("Yelaman") 
+print("Islam")
